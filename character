@@ -1,1 +1,2 @@
 story1
+story2
